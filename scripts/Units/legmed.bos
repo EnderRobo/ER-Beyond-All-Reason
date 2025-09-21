@@ -35,7 +35,7 @@ canShoot, stage, ready, newLosState, oldLosState, missilesFired, startHealth, ne
 
 #define VOLLEYCOUNT 6
 #define WEAPONNUM 2
-#define TIMETOIMPACT 3500
+#define TIMETOIMPACT 4000
 #define MINTARGETHEALTH 0
 
 lua_ShotCounter()
